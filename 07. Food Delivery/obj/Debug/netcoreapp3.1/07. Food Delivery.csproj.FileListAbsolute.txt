@@ -1,0 +1,14 @@
+C:\Users\plame\source\repos\Exercising8.01.2023\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.exe
+C:\Users\plame\source\repos\Exercising8.01.2023\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.deps.json
+C:\Users\plame\source\repos\Exercising8.01.2023\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.runtimeconfig.json
+C:\Users\plame\source\repos\Exercising8.01.2023\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.runtimeconfig.dev.json
+C:\Users\plame\source\repos\Exercising8.01.2023\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.dll
+C:\Users\plame\source\repos\Exercising8.01.2023\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.pdb
+C:\Users\plame\source\repos\Exercising8.01.2023\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\Exercising8.01.2023\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\Exercising8.01.2023\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\Exercising8.01.2023\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.AssemblyInfo.cs
+C:\Users\plame\source\repos\Exercising8.01.2023\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\Exercising8.01.2023\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.dll
+C:\Users\plame\source\repos\Exercising8.01.2023\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.pdb
+C:\Users\plame\source\repos\Exercising8.01.2023\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.genruntimeconfig.cache
