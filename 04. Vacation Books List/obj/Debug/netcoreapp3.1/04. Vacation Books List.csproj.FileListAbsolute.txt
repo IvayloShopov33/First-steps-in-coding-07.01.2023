@@ -1,0 +1,14 @@
+C:\Users\plame\source\repos\Exercising8.01.2023\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.exe
+C:\Users\plame\source\repos\Exercising8.01.2023\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.deps.json
+C:\Users\plame\source\repos\Exercising8.01.2023\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.runtimeconfig.json
+C:\Users\plame\source\repos\Exercising8.01.2023\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.runtimeconfig.dev.json
+C:\Users\plame\source\repos\Exercising8.01.2023\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.dll
+C:\Users\plame\source\repos\Exercising8.01.2023\04. Vacation Books List\bin\Debug\netcoreapp3.1\04. Vacation Books List.pdb
+C:\Users\plame\source\repos\Exercising8.01.2023\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\Exercising8.01.2023\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\Exercising8.01.2023\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\Exercising8.01.2023\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.AssemblyInfo.cs
+C:\Users\plame\source\repos\Exercising8.01.2023\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\Exercising8.01.2023\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.dll
+C:\Users\plame\source\repos\Exercising8.01.2023\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.pdb
+C:\Users\plame\source\repos\Exercising8.01.2023\04. Vacation Books List\obj\Debug\netcoreapp3.1\04. Vacation Books List.genruntimeconfig.cache
