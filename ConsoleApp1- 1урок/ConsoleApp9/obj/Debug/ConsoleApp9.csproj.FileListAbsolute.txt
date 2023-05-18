@@ -1,0 +1,5 @@
+C:\Users\plame\source\repos\ConsoleApp1\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\plame\source\repos\ConsoleApp1\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\plame\source\repos\ConsoleApp1\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\ConsoleApp1\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\plame\source\repos\ConsoleApp1\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
