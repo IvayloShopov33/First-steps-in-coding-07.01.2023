@@ -1,2 +1,2 @@
 # Programming-Basics-2023
-These are my first console applications.
+These tasks are my first console applications.
