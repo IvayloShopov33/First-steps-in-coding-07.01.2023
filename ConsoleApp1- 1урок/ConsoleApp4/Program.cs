@@ -8,6 +8,7 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
+            //inches to centimeters
             double i = double.Parse(Console.ReadLine());
             double c = i * 2.54;
             Console.WriteLine(c);
